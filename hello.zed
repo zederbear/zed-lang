@@ -1,0 +1,6 @@
+func hello() string
+    print "Hello, World!"
+    return "done"
+end
+
+print "hey man"
